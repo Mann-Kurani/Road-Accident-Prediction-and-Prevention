@@ -9,7 +9,6 @@ This repository contains Python scripts for analyzing and preprocessing the US A
 - Preprocessing
 - Model Building
 - Increasing the Recall of High Severity Accidents
-- Hackathon Information
 
 ## Overview
 
